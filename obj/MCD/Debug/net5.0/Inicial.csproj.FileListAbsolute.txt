@@ -1,0 +1,16 @@
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\bin\MCD\Debug\net5.0\Inicial.exe
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\bin\MCD\Debug\net5.0\Inicial.deps.json
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\bin\MCD\Debug\net5.0\Inicial.runtimeconfig.json
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\bin\MCD\Debug\net5.0\Inicial.runtimeconfig.dev.json
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\bin\MCD\Debug\net5.0\Inicial.dll
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\bin\MCD\Debug\net5.0\ref\Inicial.dll
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\bin\MCD\Debug\net5.0\Inicial.pdb
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\Inicial.csproj.AssemblyReference.cache
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\Inicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\Inicial.AssemblyInfoInputs.cache
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\Inicial.AssemblyInfo.cs
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\Inicial.csproj.CoreCompileInputs.cache
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\Inicial.dll
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\ref\Inicial.dll
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\Inicial.pdb
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\Inicial\obj\MCD\Debug\net5.0\Inicial.genruntimeconfig.cache
